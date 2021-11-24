@@ -1,0 +1,16 @@
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.exe
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.deps.json
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.runtimeconfig.json
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.runtimeconfig.dev.json
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.dll
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ref\ConditionalStatementsAndLoops.dll
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\bin\Debug\net5.0\ConditionalStatementsAndLoops.pdb
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.csprojAssemblyReference.cache
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.AssemblyInfoInputs.cache
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.AssemblyInfo.cs
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.csproj.CoreCompileInputs.cache
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.dll
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ref\ConditionalStatementsAndLoops.dll
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.pdb
+D:\Scoala Informala - Curs .Net\Exercitii\Repository\ConditionalStatementsAndLoops\ConditionalStatementsAndLoops\obj\Debug\net5.0\ConditionalStatementsAndLoops.genruntimeconfig.cache
